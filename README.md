@@ -5,25 +5,25 @@ Welcome to my SQL practice repository! Here, I'm honing my SQL skills from basic
 ## Content
 
 ### DML (Data Manipulation Language)
-- [ ] SELECT statement
-- [ ] INSERT statement
-- [ ] UPDATE statement
-- [ ] DELETE statement
+- [x] SELECT statement
+- [x] INSERT statement
+- [x] UPDATE statement
+- [x] DELETE statement
 - [ ] MERGE statement
 
 ### DDL (Data Definition Language)
-- [ ] CREATE TABLE
-- [ ] ALTER TABLE
-- [ ] DROP TABLE
+- [x] CREATE TABLE
+- [x] ALTER TABLE
+- [x] DROP TABLE
 - [ ] CREATE INDEX
 - [ ] DROP INDEX
 
 ### Statements and Clauses
-- [ ] WHERE clause
-- [ ] ORDER BY clause
-- [ ] GROUP BY clause
-- [ ] HAVING clause
-- [ ] JOIN statements (INNER, LEFT, RIGHT, FULL)
+- [x] WHERE clause
+- [x] ORDER BY clause
+- [x] GROUP BY clause
+- [x] HAVING clause
+- [x] JOIN statements (INNER, LEFT, RIGHT, FULL)
 - [ ] Subqueries
 - [ ] Common Table Expressions (CTEs)
 - [ ] Transactions and ACID properties
