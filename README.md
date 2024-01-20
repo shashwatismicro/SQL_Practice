@@ -18,19 +18,29 @@ Welcome to my SQL practice repository! Here, I'm honing my SQL skills from basic
 - [ ] CREATE INDEX
 - [ ] DROP INDEX
 
-### Statements and Clauses
+### Statements, Functions and Clauses
 - [x] WHERE clause
 - [x] ORDER BY clause
 - [x] GROUP BY clause
 - [x] HAVING clause
+- [x] LIKE Clause
 - [x] JOIN statements (INNER, LEFT, RIGHT, FULL)
+- [ ] CASE Statement | Use cases
 - [ ] Subqueries
 - [ ] Common Table Expressions (CTEs)
 - [ ] Transactions and ACID properties
+- [ ] Cast and Convert
+- [ ] SQL View and Temp table
+- [ ] User defined SQL functions
+- [ ] Stored Procedure
+- [ ] Triggers in SQL
+- [ ] Window Functions
+- [ ] PARTITION BY statement
 
 ## Database Systems
 - [x] MySQL (Current Focus)
 - [ ] PostgreSQL (Future)
+- [ ] MangoDB
 
 
 
