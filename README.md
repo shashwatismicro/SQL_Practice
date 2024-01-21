@@ -40,6 +40,7 @@ Welcome to my SQL practice repository! Here, I'm honing my SQL skills from basic
 ## Database Systems
 - [x] MySQL (Current Focus)
 - [ ] PostgreSQL (Future)
+- [ ] NosSQL (Future)
 - [ ] MangoDB
 
 
