@@ -27,7 +27,7 @@ Welcome to my SQL practice repository! Here, I'm honing my SQL skills from basic
 - [x] JOIN statements (INNER, LEFT, RIGHT, FULL)
 - [ ] CASE Statement | Use cases
 - [x] Subqueries
-- [ ] Common Table Expressions (CTEs)
+- [ ] Common Table Expressions (CTEs) and RECURSIVE query
 - [ ] Transactions and ACID properties
 - [ ] Cast and Convert
 - [ ] SQL View and Temp table
