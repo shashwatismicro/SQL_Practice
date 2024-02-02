@@ -1,5 +1,5 @@
 -- Common Table Expressions
-/*
+/* 
 Syntax:
 
 WITH table_alias (column_names) AS (
@@ -95,7 +95,7 @@ join employeeData ed2
 on eh2.manager_id = ed2.EMPLOYEE_ID
 order by eh2.tier;
 
-/*
+/* 
 Use a recursive query to display the hierarchical structure of all the employees. Include columns for 
 employee ID, first name, last name, and manager ID.
 */
@@ -111,7 +111,7 @@ with recursive hierarchy_table as (
         on e.manager_id = h.employee_id)
 select * from hierarchy_table;
 
-/*
+/* 
 Create a query to count the number of subordinates for each manager. Include columns for 
 manager ID, manager name, and the count of subordinates.
 */
