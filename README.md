@@ -25,7 +25,7 @@ Welcome to my SQL practice repository! Here, I'm honing my SQL skills from basic
 - [x] HAVING clause
 - [x] LIKE Clause
 - [x] JOIN statements (INNER, LEFT, RIGHT, FULL)
-- [ ] CASE Statement | Use cases
+- [x] CASE Statement | Use cases
 - [x] Subqueries
 - [x] Common Table Expressions (CTEs) and RECURSIVE query
 - [ ] Transactions and ACID properties
@@ -34,8 +34,8 @@ Welcome to my SQL practice repository! Here, I'm honing my SQL skills from basic
 - [ ] User defined SQL functions
 - [ ] Stored Procedure
 - [ ] Triggers in SQL
-- [ ] Window Functions
-- [ ] PARTITION BY statement
+- [x] Window Functions
+- [x] PARTITION BY statement
 
 ## Database Systems
 - [x] MySQL (Current Focus)
