@@ -31,7 +31,6 @@ Welcome to my SQL practice repository! Here, I'm honing my SQL skills from basic
 - [ ] Transactions and ACID properties
 - [ ] Cast and Convert
 - [ ] SQL View and Temp table
-- [ ] User defined SQL functions
 - [x] Stored Procedure
 - [ ] Triggers in SQL
 - [x] Window Functions
