@@ -32,7 +32,7 @@ Welcome to my SQL practice repository! Here, I'm honing my SQL skills from basic
 - [ ] Cast and Convert
 - [ ] SQL View and Temp table
 - [ ] User defined SQL functions
-- [ ] Stored Procedure
+- [x] Stored Procedure
 - [ ] Triggers in SQL
 - [x] Window Functions
 - [x] PARTITION BY statement
